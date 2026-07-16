@@ -37,7 +37,7 @@ The project follows a structured data analysis process:
 Started with the original Bike Buyers dataset containing customer demographic and purchasing information.
 
 📷 *Screenshot: Raw Data*
-
+![Raw Dataset](images/raw_data.png)
 ---
 
 ### 2. Data Cleaning & Preparation
