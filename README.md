@@ -50,7 +50,7 @@ Prepared the dataset for analysis by:
 - Organizing the dataset for Pivot Table analysis
 
 📷 *Screenshot: Working Sheet / Cleaned Data*
-
+![Working sheet](images/working_sheet.png)
 ---
 
 ### 3. Data Analysis Using Pivot Tables
@@ -63,7 +63,7 @@ Built Pivot Tables to summarize customer behavior and purchasing trends, includi
 - Customer Purchase Distribution
 
 📷 *Screenshot: Pivot Tables*
-
+![Pivot tables](images/pivot_table.png)
 ---
 
 ### 4. Interactive Dashboard
@@ -79,7 +79,7 @@ The dashboard enables quick analysis of:
 - Customer Demographics
 
 📷 *Screenshot: Dashboard*
-
+![Dashboard](images/dashboard.png)
 ---
 
 ## 📊 Dashboard Features
